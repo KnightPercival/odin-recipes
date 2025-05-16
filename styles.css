@@ -1,0 +1,30 @@
+html {
+    background-color: black;
+}
+.mainHeader {
+    font-size: 50px;
+    text-align: center;
+    color: gold;
+    background: #808080cc;
+    padding: 12px;
+}
+
+.nav {
+    padding: 10px;
+    background: repeating-radial-gradient(#b8a81a, transparent 100px);
+}
+
+.navLink {
+    font-size: 25px;
+    color: gold;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.navItem {
+    margin: 30px auto;
+    background-color: #808080cc;
+    padding: 20px;
+    list-style: none;
+    text-align: center;
+}
